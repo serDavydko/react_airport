@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_airport/static/css/main.4c48667a.chunk.css",
+    "main.js": "/react_airport/static/js/main.0095f576.chunk.js",
+    "main.js.map": "/react_airport/static/js/main.0095f576.chunk.js.map",
+    "runtime~main.js": "/react_airport/static/js/runtime~main.037fa8df.js",
+    "runtime~main.js.map": "/react_airport/static/js/runtime~main.037fa8df.js.map",
+    "static/js/2.3310f33a.chunk.js": "/react_airport/static/js/2.3310f33a.chunk.js",
+    "static/js/2.3310f33a.chunk.js.map": "/react_airport/static/js/2.3310f33a.chunk.js.map",
+    "index.html": "/react_airport/index.html",
+    "precache-manifest.2b1cc2bfbee41366a0270597566a8204.js": "/react_airport/precache-manifest.2b1cc2bfbee41366a0270597566a8204.js",
+    "service-worker.js": "/react_airport/service-worker.js",
+    "static/css/main.4c48667a.chunk.css.map": "/react_airport/static/css/main.4c48667a.chunk.css.map"
+  }
+}
