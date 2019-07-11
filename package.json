@@ -13,7 +13,7 @@
     "react-scripts": "3.0.1"
   },
   "devDependencies": {
-    "@mate-academy/react_eslint-config": "*",
+    "@mate-academy/eslint-config-react": "*",
     "@mate-academy/stylelint-config": "*",
     "eslint": "^5.16.0",
     "gh-pages": "^2.0.1",
